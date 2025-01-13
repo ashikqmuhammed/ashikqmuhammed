@@ -3,8 +3,6 @@
 <h3 align="center">A passionate fullstack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🌱 I’m currently developing **React** based **Social Media Web App**.
-
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **ashikqmuhammed@gmail.com**
