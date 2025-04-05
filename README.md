@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** specializing in the
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ashikqmuhammed&show_icons=true&theme=radical)
 
 ---
 
